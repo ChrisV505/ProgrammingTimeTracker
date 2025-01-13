@@ -1,6 +1,24 @@
-Time tracker for programming
-----------------------------
-12/19 - 2:18 hrs
-12/20 - 1:30 hrs
-12/21 - 1:30 hrs
-12/22 - 2 hrs -> Finish project first project
+Time tracker for programming				Break days
+----------------------------				----------
+12/19 - 2:18 hrs					12/26
+12/20 - 1:30 hrs					12/31
+12/21 - 1:30 hrs					01/01
+12/22 - 2 hrs -> Finish project first project		01/11
+12/23 - 1:30 hrs
+12/24 - 2:40 hrs
+12/25 - 3 hrs -> Finish project: CalcV2
+12/27 - 20 mins -> Start Project: BasicBudget
+12/28 - 1:16 hrs
+12/29 - 1:11 hrs -> Finish Project: BasicBudget
+12/30 - 1:05 hrs
+01/02 - 1 hr
+01/03 - 2 hrs
+01/04 - 1:30 hrs
+01/05 - 2 hrs
+01/06 - 1:18 hrs
+01/07 - 1 hr
+01/08 - 4:30 hrs
+01/08 - 40 mins
+01/10 - 2 hrs -> Finish Project: BasicBudgetV2
+01/12 - 1:10 hrs -> Learning git/GitHub
+01/13 - 
