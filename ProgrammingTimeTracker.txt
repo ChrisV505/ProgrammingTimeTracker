@@ -21,4 +21,4 @@ Time tracker for programming				Break days
 01/08 - 40 mins
 01/10 - 2 hrs -> Finish Project: BasicBudgetV2
 01/12 - 1:10 hrs -> Learning git/GitHub
-01/13 - 
+01/13 - 2 hrs -> Encounter GitHub error
