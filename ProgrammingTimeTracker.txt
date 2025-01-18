@@ -7,9 +7,9 @@ Time tracker for programming				Break days
 12/23 - 1:30 hrs
 12/24 - 2:40 hrs
 12/25 - 3 hrs -> Finish project: CalcV2
-12/27 - 20 mins -> Start Project: BasicBudget
+12/27 - 20 mins -> Start Project: Basic Budget
 12/28 - 1:16 hrs
-12/29 - 1:11 hrs -> Finish Project: BasicBudget
+12/29 - 1:11 hrs -> Finish Project: Basic Budget
 12/30 - 1:05 hrs
 01/02 - 1 hr
 01/03 - 2 hrs
@@ -25,4 +25,4 @@ Time tracker for programming				Break days
 01/14 - 50 mins -> learned how to ignore files and GitHub finally worked
 01/15 - 50 mins -> Finally figure out git push/pull between desktop and laptop
 01/16 - 40 mins -> Couldn't do much, I decided to watch the video (I'm hitting a wall rn)
-01/17 - 
+01/17 - 1:25 hrs -> Started watching BroCode, watched 2 hours but skipped topics I knew already.
