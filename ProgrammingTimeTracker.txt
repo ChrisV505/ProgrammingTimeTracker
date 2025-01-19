@@ -4,7 +4,7 @@ Time tracker for programming				Break days
 12/20 - 1:30 hrs					12/31
 12/21 - 1:30 hrs					01/01
 12/22 - 2 hrs -> Finish project first project		01/11
-12/23 - 1:30 hrs
+12/23 - 1:30 hrs					01/18
 12/24 - 2:40 hrs
 12/25 - 3 hrs -> Finish project: CalcV2
 12/27 - 20 mins -> Start Project: Basic Budget
