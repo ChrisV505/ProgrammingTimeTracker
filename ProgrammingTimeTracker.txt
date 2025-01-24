@@ -28,3 +28,4 @@ Time tracker for programming				Break days
 01/17 - 1:25 hrs -> Started watching BroCode, watched 2 hours but skipped topics I knew already.
 01/19 - 1 hr -> Didn't do much, will be better tomorrow.
 01/22 - 50 mins -> Trying my hardest to get through the second half of bro code video
+01/23 - 2 hrs -> Finally started OOP part of the video
