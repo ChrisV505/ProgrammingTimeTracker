@@ -7,8 +7,8 @@ Time tracker for programming				Break days
 12/23 - 1:30 hrs					01/18
 12/24 - 2:40 hrs					01/20
 12/25 - 3 hrs -> Finish project: CalcV2			01/21
-12/27 - 20 mins -> Start Project: Basic Budget
-12/28 - 1:16 hrs
+12/27 - 20 mins -> Start Project: Basic Budget		01/25
+12/28 - 1:16 hrs					01/26
 12/29 - 1:11 hrs -> Finish Project: Basic Budget
 12/30 - 1:05 hrs
 01/02 - 1 hr
@@ -30,3 +30,4 @@ Time tracker for programming				Break days
 01/22 - 50 mins -> Trying my hardest to get through the second half of bro code video
 01/23 - 2 hrs -> Finally started OOP part of the video
 01/24 - 1 hr -> Learned more OOP topics (inheritance, super, etc)
+01/27 - 1 hr -> Continued video left of at 8 hrs
