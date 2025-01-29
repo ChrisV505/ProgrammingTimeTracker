@@ -31,3 +31,4 @@ Time tracker for programming				Break days
 01/23 - 2 hrs -> Finally started OOP part of the video
 01/24 - 1 hr -> Learned more OOP topics (inheritance, super, etc)
 01/27 - 1 hr -> Continued video left of at 8 hrs
+01/28 - 1 hr -> video left at 9 hrs
