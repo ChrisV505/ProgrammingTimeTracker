@@ -11,7 +11,7 @@ Time tracker for programming						Break days
 12/28 - 1:16 hrs                                        	  	  01/26
 12/29 - 1:11 hrs -> Finish Project: Basic Budget			  01/31
 12/30 - 1:05 hrs							  02/01
-01/02 - 1 hr
+01/02 - 1 hr								  02/03
 01/03 - 2 hrs
 01/04 - 1:30 hrs
 01/05 - 2 hrs
@@ -35,3 +35,4 @@ Time tracker for programming						Break days
 01/29 - 2 hrs -> video left at 10 hrs (Almost done!!!!)
 01/30 - 1:40 hrs -> Didn't watch video today, learned how to read and write files and it was a success :)
 02/02 - 2:39 hrs -> One more hour and then I'm finally done with this tutorial hell
+02/04 - 1:50 hrs -> Finish Bro Code video finally!!! Ready for this new chapter of my programming career
