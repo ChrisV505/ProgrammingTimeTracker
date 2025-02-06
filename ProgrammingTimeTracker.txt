@@ -36,3 +36,4 @@ Time tracker for programming						Break days
 01/30 - 1:40 hrs -> Didn't watch video today, learned how to read and write files and it was a success :)
 02/02 - 2:39 hrs -> One more hour and then I'm finally done with this tutorial hell
 02/04 - 1:50 hrs -> Finish Bro Code video finally!!! Ready for this new chapter of my programming career
+02/05 - 2 hrs -> Started working on petmanger program which uses some OOP :)
