@@ -38,3 +38,4 @@ Time tracker for programming						Break days
 02/04 - 1:50 hrs -> Finish Bro Code video finally!!! Ready for this new chapter of my programming career
 02/05 - 2 hrs -> Started working on petmanger program which uses some OOP :)
 02/07 - 2 hrs -> Finished petManager. Not happy with it since I used a lot of ChatGpt (First project with using classes)
+02/08 - 3 hrs -> Started toDoListAppV2 using classes and almost finished. Only need to read and write to a file.
