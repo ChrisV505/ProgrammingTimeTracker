@@ -13,10 +13,10 @@ Time tracker for programming						Break days
 12/30 - 1:05 hrs							  02/01
 01/02 - 1 hr								  02/03
 01/03 - 2 hrs								  02/06
-01/04 - 1:30 hrs
-01/05 - 2 hrs
-01/06 - 1:18 hrs
-01/07 - 1 hr
+01/04 - 1:30 hrs							  02/11
+01/05 - 2 hrs								  02/14
+01/06 - 1:18 hrs							  02/17
+01/07 - 1 hr								  02/19
 01/08 - 4:30 hrs
 01/08 - 40 mins
 01/10 - 2 hrs -> Finish Project: BasicBudgetV2
@@ -40,3 +40,10 @@ Time tracker for programming						Break days
 02/07 - 2 hrs -> Finished petManager. Not happy with it since I used a lot of ChatGpt (First project with using classes)
 02/08 - 3 hrs -> Started toDoListAppV2 using classes and almost finished. Only need to read and write to a file.
 02/09 - 3:10 hrs -> Almost finished toDoListAppV2, only need to make method for storing data from file.
+02/10 - 1:09 hrs -> Finshed toDoApp, starting weather app tomorrow or calc app. Starting from the basic then making a hard app
+02/12 - 1:48 hrs -> Started upgrading my mamas program, finished with 1/3 new methods
+02/13 - 1:18 hrs -> Finished the upgrades
+02/15 - 1:09 hrs -> Learning API usage with GitHub WeatherApp code
+02/16 - 53 mins -> Finished WeatherApp, tried to understand how it works
+02/18 - 36 mins -> Started Full Stack App tutorial
+02/20 - 1 hr -> Continued video, set up spring boot and mongoDB database. Started backend
