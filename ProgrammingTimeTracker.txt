@@ -47,3 +47,5 @@ Time tracker for programming						Break days
 02/16 - 53 mins -> Finished WeatherApp, tried to understand how it works
 02/18 - 36 mins -> Started Full Stack App tutorial
 02/20 - 1 hr -> Continued video, set up spring boot and mongoDB database. Started backend
+02/21 - 1:17 hrs -> continue video, ran into a problem with env files breaking the whole data base connection
+02/22 - 1:30 mins -> FIXED THE ISSUE I THINK; RAN INTO ANOTHER PROBLEM WITH MOVIEREPO CLASS
