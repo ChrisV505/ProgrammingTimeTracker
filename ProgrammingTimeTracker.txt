@@ -49,3 +49,7 @@ Time tracker for programming						Break days
 02/20 - 1 hr -> Continued video, set up spring boot and mongoDB database. Started backend
 02/21 - 1:17 hrs -> continue video, ran into a problem with env files breaking the whole data base connection
 02/22 - 1:30 mins -> FIXED THE ISSUE I THINK; RAN INTO ANOTHER PROBLEM WITH MOVIEREPO CLASS
+02/23 - 48 mins -> GAVE UP NOTHING WORK fuck...
+02/24 - 3:20 hrs -> Started new video and everyting went good, ONE ERROR trying to fix it tomorrow. ERROR caused by person in video using node version that older than mine
+02/25 - 30 mins -> don't remember this day
+02/26 - 1:30 hrs -> Did MIMO app for front end developing
