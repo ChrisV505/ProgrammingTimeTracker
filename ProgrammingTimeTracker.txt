@@ -53,3 +53,4 @@ Time tracker for programming						Break days
 02/24 - 3:20 hrs -> Started new video and everyting went good, ONE ERROR trying to fix it tomorrow. ERROR caused by person in video using node version that older than mine
 02/25 - 30 mins -> don't remember this day
 02/26 - 1:30 hrs -> Did MIMO app for front end developing
+02/27 - 3 hrs -> Did MIMO just for the streak, fixed GitHub repos, created 2 new ones. 1 for the fullstack app another one for learning with MIMO front end hehe. 
